@@ -13,4 +13,4 @@ SCO builds its own AI models and installs them inside companies: wired into thei
 - **[inavo](https://sco.tr/en/inavo)**: websites, mobile apps and brands, since 2014.
 - **[SAVARON](https://sco.tr/en/savaron)**: software, e-commerce and brand identity, now part of SCO.
 
-[sco.tr](https://sco.tr/en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/scagriozturk/)
+[sco.tr](https://sco.tr/en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sukrucagriozturk/)
